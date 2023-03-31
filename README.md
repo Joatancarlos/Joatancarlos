@@ -12,6 +12,6 @@
   <img align="center"/ alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center"/ alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center"/ alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-</div>
+</div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
