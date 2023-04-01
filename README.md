@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Joatan Feitosa!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joatancarlosf/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joatan-feitosa/)
 
-![Joatan GitHub stats](https://github-readme-stats.vercel.app/api?username=Joatancarlos&show_icons=true&theme=tokyonight)
+![Joatan GitHub stats](https://github-readme-stats.vercel.app/api?username=Joatancarlos&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=4&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias do meu cotidiano:
@@ -13,5 +13,3 @@
   <img align="center"/ alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center"/ alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=4&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
