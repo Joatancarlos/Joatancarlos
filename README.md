@@ -2,8 +2,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joatancarlosf/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joatan-feitosa/)
 
 <div>
-  <img height="180em"/ alt="commits" src="https://github-readme-stats.vercel.app/api?username=Joatancarlos&show_icons=true&theme=tokyonight">
-  <img height="180em"/ alt="most-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=4&theme=tokyonight">
+  <img height="250em"/ alt="commits" src="https://github-readme-stats.vercel.app/api?username=Joatancarlos&show_icons=true&theme=tokyonight">
+  <img height="250em"/ alt="most-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joatancarlos&langs_count=4&theme=tokyonight">
 </div>
 
 ## Tecnologias do meu cotidiano:
