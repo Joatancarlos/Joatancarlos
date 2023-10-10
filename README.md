@@ -1,23 +1,34 @@
-<hr>
+<hr />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=50&duration=3500&pause=1000&color=58FFB5&vCenter=true&random=false&width=500&height=60&lines=Ol%C3%A1%2C+voc%C3%AA!;Eu+sou+Joatan.)](https://git.io/typing-svg)
 
-<hr>
+<hr />
 
-<h1 align="center"> Sobre Mim </h1>
+<h1 align="center"> Tecnologias do meu cotidiano </h1>
 
-## Tecnologias do meu cotidiano:
-<div style="display: inline_block"><br/>
-  <img align="center" height="50em" width="50em" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" height="50em" width="50em" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" height="50em" width="50em" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="50em" width="50em" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" height="50em" width="50em" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" height="50em" width="50em" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-</div><br/>
+<br/>
 
-<br/><br/><br/>
+<table align="center" height="90%">
+  <tr>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65px" alt="React icon"/><br />
+        <pre>React.js</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next icon"/><br />
+        <pre>Next.js</pre>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <hr/>
+
 <h1 align="center"> Social </h1>
 <p align="center" >
 <a href="https://www.linkedin.com/in/joatan-feitosa/">
