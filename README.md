@@ -46,14 +46,14 @@
         <pre>Jest.js</pre>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Bootstrap icon"/><br />
         <pre>Python</pre>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.docker.com/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65px" alt="Bootstrap icon"/><br />
