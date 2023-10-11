@@ -1,8 +1,22 @@
 <hr />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=50&duration=3500&pause=1000&color=58FFB5&vCenter=true&random=false&width=500&height=60&lines=Ol%C3%A1%2C+voc%C3%AA!;Eu+sou+Joatan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=50&duration=3500&pause=1000&color=FFF&vCenter=true&random=false&width=500&height=60&lines=Ol%C3%A1%2C+voc%C3%AA!;Eu+sou+Joatan.)](https://git.io/typing-svg)
 
 <hr />
+
+<h1 align="center"> Sobre Mim </h1>
+
+<ul align="left">
+  <li>
+    Possuo como hobbies: ♠️ jogar poker com os amigos, ⛱ pegar uma praia e 🎶 tocar violão..
+  </li>
+  <li>
+    Sou muito fã de Rock 🤘🏻, tendo como top 3 bandas: Metallica, Iron Maiden e AC/DC. Mas sendo o violinista que sou, também adoro uma boa música brasileira. 
+  </li>
+  <li>
+    Sou uma pessoa fácil de lidar, 😁 sorridente e com qualidades técnicas para contribuir com a equipe 👨🏻‍🔧. 
+  </li>
+</ul>
 
 <h1 align="center"> Hard Skills </h1>
 
