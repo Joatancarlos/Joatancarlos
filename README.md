@@ -4,6 +4,7 @@
 
 <hr />
 
+<br />
 <h1 align="center"> Sobre Mim </h1>
 
 <ul align="left">
@@ -17,6 +18,7 @@
     Sou uma pessoa fácil de lidar, 😁 sorridente e com qualidades técnicas para contribuir com a equipe 👨🏻‍🔧. 
   </li>
 </ul>
+<br />
 
 <h1 align="center"> Hard Skills </h1>
 
