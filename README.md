@@ -4,11 +4,11 @@
 
 <hr />
 
-<h1 align="center"> Tecnologias do meu cotidiano </h1>
+<h1 align="center"> Hard Skills </h1>
 
 <br/>
 
-<table align="center" height="90%">
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -20,6 +20,50 @@
       <a href="https://nextjs.org/">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next icon"/><br />
         <pre>Next.js</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Bootstrap</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org/">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Redux</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Javascript</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jestjs.io/pt-BR/">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Jest.js</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Python</pre>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>Docker</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <pre>MySQL</pre>
       </a>
     </td>
   </tr>
