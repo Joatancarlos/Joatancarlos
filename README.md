@@ -30,19 +30,19 @@
     </td>
     <td align="center">
       <a href="https://redux.js.org/">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65px" alt="Redux icon"/><br />
         <pre>Redux</pre>
       </a>
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br />
         <pre>Javascript</pre>
       </a>
     </td>
     <td align="center">
       <a href="https://jestjs.io/pt-BR/">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65px" alt="Jest icon"/><br />
         <pre>Jest.js</pre>
       </a>
     </td>
@@ -50,20 +50,58 @@
   <tr>
     <td align="center">
       <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Python icon"/><br />
         <pre>Python</pre>
       </a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65px" alt="Docker icon"/><br />
         <pre>Docker</pre>
       </a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65px" alt="Bootstrap icon"/><br />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65px" alt="MySQL icon"/><br />
         <pre>MySQL</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/pt-br/">
+        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br />
+        <pre>Express</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="GIT icon"/><br />
+        <pre>GIT</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node icon"/><br />
+        <pre>Node.js</pre>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.postman.com/">
+        <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br />
+        <pre>Postman</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sequelize.org/">
+        <img src="https://skillicons.dev/icons?i=sequelize" width="65px" alt="Sequelize icon"/><br />
+        <pre>Sequelize</pre>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code icon"/><br />
+        <pre>VS Code</pre>
       </a>
     </td>
   </tr>
