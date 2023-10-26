@@ -12,7 +12,7 @@
     Possuo como hobbies: ♠️ jogar poker com os amigos, ⛱ pegar uma praia e 🎶 tocar violão..
   </li>
   <li>
-    Sou muito fã de Rock 🤘🏻, tendo como top 3 bandas: Metallica, Iron Maiden e AC/DC. Mas sendo o violinista que sou, também adoro uma boa música brasileira. 
+    Sou muito fã de Rock 🤘🏻, tendo como top 3 bandas: Metallica, Iron Maiden e AC/DC. Mas sendo o violonista que sou, também adoro uma boa música brasileira. 
   </li>
   <li>
     Sou uma pessoa fácil de lidar, 😁 sorridente e com qualidades técnicas para contribuir com a equipe 👨🏻‍🔧. 
